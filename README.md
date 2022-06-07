@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @radenyaqien
 - 👀 I’m interested in Mobile Android Development
-- 🌱 I’m currently learning Android compose
+- 🌱 I’m currently learning Android compose using Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
