@@ -1,6 +1,11 @@
 # Hi there, I'm Yaqin!
 
-I'm a passionate mobile Android developer with experience building high-quality applications that help solve real-world problems. I'm excited about the potential for mobile technology to make a positive impact on people's lives, and I'm always looking for new opportunities to learn and grow as a developer.
+Hello! I'm an enthusiastic Android developer with a passion for
+creating seamless and innovative mobile experiences. With a solid
+foundation in Java and Kotlin, I specialize in designing, developing,
+and maintaining high-quality Android applications. My journey in the
+tech world began with a fascination for how things work under the
+hood, leading me to dive deep into mobile app development.
 
 ## Skills and Expertise
 
